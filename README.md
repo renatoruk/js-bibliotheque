@@ -10,3 +10,9 @@ Curated list of JS tools that I love to use or plan to use on web projects.
 - https://github.com/contiamo/restful-react
 - https://swr.now.sh/
 - https://www.apollographql.com/docs/link/links/rest/
+
+## JS package development
+- https://github.com/jaredpalmer/tsdx
+- https://github.com/hodgef/js-library-boilerplate
+- https://github.com/developit/microbundle
+
